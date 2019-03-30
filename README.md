@@ -1,2 +1,2 @@
 # Projects
-My Projects Repository
+Machine Learning Projects Repository
